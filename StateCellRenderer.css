@@ -1,0 +1,93 @@
+.Arrow {
+  width: 16px;
+  height: 16px;
+  /*margin: 3px 0 25px 232.9px;*/
+  font-size: 16px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.06;
+  letter-spacing: normal;
+  text-align: center;
+  color: #6a6d70;
+  border: none;
+  outline: none;
+  margin-left: 25px;
+  background-color: #ffffff;
+}
+.update {
+  width: 53px;
+  height: 17px;
+  font-size: 14px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.43;
+  letter-spacing: normal;
+  text-align: left;
+  color: #32363a;
+}
+.refresh {
+  width: 16px;
+  height: 20px;
+  font-size: 16px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.25;
+  letter-spacing: normal;
+  text-align: center;
+  color: #107f3e;
+}
+.sync {
+  width: 46px;
+  height: 17px;
+  margin-left: 8px;
+  font-size: 14px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.43;
+  letter-spacing: normal;
+  text-align: left;
+  color: #107f3e;
+}
+.productDetailsVisible {
+  display: block;
+}
+
+.mapCatalogVisible {
+  display: block;
+}
+.productNavbarInvisible {
+  display: none;
+}
+.productNavbarActive {
+  display: block;
+  margin-top: -806px;
+  margin-left: -117px;
+}
+.productDetailsInvisible {
+  display: none;
+}
+.updateIcon {
+  margin-bottom: -6px;
+}
+
+.sidebarHide {
+  left: -250px;
+}
+
+.searchContainerLeft {
+  margin-left: 30px;
+}
+
+.listgridLeft {
+  margin-left: 400px;
+}
+
+.showSelectedDisplay {
+  display: block;
+  float: left;
+  margin-left: -20px;
+}
